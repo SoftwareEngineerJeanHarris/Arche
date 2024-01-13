@@ -1763,3 +1763,27 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.13-15.20.27:235][257]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
 [2024.01.13-15.20.27:241][257]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
 [2024.01.13-15.20.27:287][259]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2024.01.13-15.25.26:497][892]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.13-15.25.26:532][892]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_RPGCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_RPGCharacter_C_230
+	Function /Game/Characters/RPG_Character/Animations/ABP_RPGCharacter.ABP_RPGCharacter_C:ExecuteUbergraph_ABP_RPGCharacter:00A4
+[2024.01.13-15.25.26:532][892]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_RPGCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_RPGCharacter_C_230
+	Function /Game/Characters/RPG_Character/Animations/ABP_RPGCharacter.ABP_RPGCharacter_C:ExecuteUbergraph_ABP_RPGCharacter:00A4
+[2024.01.13-15.25.26:554][892]LogSavePackage: Moving output files for package: /Game/Characters/RPG_Character/Animations/ABP_RPGCharacter
+[2024.01.13-15.25.26:554][892]LogSavePackage: Moving '../../../../../../Users/Jean/Documents/Unreal Projects/Arche/Saved/ABP_RPGCharacter3CE3944E434DAEF3A649869CFF7E2350.tmp' to '../../../../../../Users/Jean/Documents/Unreal Projects/Arche/Content/Characters/RPG_Character/Animations/ABP_RPGCharacter.uasset'
+[2024.01.13-15.25.26:558][892]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 1.09 sec)
+[2024.01.13-15.25.26:559][892]AssetCheck: New page: Asset Save: ABP_RPGCharacter
+[2024.01.13-15.25.26:559][892]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Characters/RPG_Character/Animations/ABP_RPGCharacter.ABP_RPGCharacter
+[2024.01.13-15.28.11:116][904]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.13-15.28.11:149][904]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_RPGCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_RPGCharacter_C_231
+	Function /Game/Characters/RPG_Character/Animations/ABP_RPGCharacter.ABP_RPGCharacter_C:ExecuteUbergraph_ABP_RPGCharacter:00A4
+[2024.01.13-15.28.11:149][904]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_RPGCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_RPGCharacter_C_231
+	Function /Game/Characters/RPG_Character/Animations/ABP_RPGCharacter.ABP_RPGCharacter_C:ExecuteUbergraph_ABP_RPGCharacter:00A4
+[2024.01.13-15.28.11:172][904]LogSavePackage: Moving output files for package: /Game/Characters/RPG_Character/Animations/ABP_RPGCharacter
+[2024.01.13-15.28.11:172][904]LogSavePackage: Moving '../../../../../../Users/Jean/Documents/Unreal Projects/Arche/Saved/ABP_RPGCharacterB92D9C3D47D1B1C5FB801C92ACED218C.tmp' to '../../../../../../Users/Jean/Documents/Unreal Projects/Arche/Content/Characters/RPG_Character/Animations/ABP_RPGCharacter.uasset'
+[2024.01.13-15.28.11:177][904]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 1.15 sec)
+[2024.01.13-15.28.11:178][904]AssetCheck: New page: Asset Save: ABP_RPGCharacter
+[2024.01.13-15.28.11:178][904]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Characters/RPG_Character/Animations/ABP_RPGCharacter.ABP_RPGCharacter
