@@ -9,7 +9,12 @@
 				"C:/Users/Jean/Documents/Unreal Projects/Arche/Content/Characters/RPG_Character/Animations/Crouch_Idle.uasset",
 				"C:/Users/Jean/Documents/Unreal Projects/Arche/Content/Characters/RPG_Character/Animations/Crouh_Walk.uasset",
 				"C:/Users/Jean/Documents/Unreal Projects/Arche/Content/Characters/RPG_Character/Animations/Idle_Break.uasset",
-				"C:/Users/Jean/Documents/Unreal Projects/Arche/Content/Characters/RPG_Character/Animations/Walk_Stop.uasset"
+				"C:/Users/Jean/Documents/Unreal Projects/Arche/Content/Characters/RPG_Character/Animations/Walk_Stop.uasset",
+				"C:/Users/Jean/Documents/Unreal Projects/Arche/Content/Characters/RPG_Character/Animations/Locomotion/Walk_Stop.uasset",
+				"C:/Users/Jean/Documents/Unreal Projects/Arche/Content/Characters/RPG_Character/Animations/Locomotion/Idle_Break.uasset",
+				"C:/Users/Jean/Documents/Unreal Projects/Arche/Content/Characters/RPG_Character/Animations/Crouched/Crouh_Walk.uasset",
+				"C:/Users/Jean/Documents/Unreal Projects/Arche/Content/Characters/RPG_Character/Animations/Crouched/Crouch_Idle.uasset",
+				"C:/Users/Jean/Documents/Unreal Projects/Arche/Content/Characters/RPG_Character/Animations/Locomotion/LocomotionBlendSpace1D.uasset"
 			]
 		}
 	]
