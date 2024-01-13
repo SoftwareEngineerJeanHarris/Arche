@@ -1230,3 +1230,138 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.13-14.57.49:775][469]LogSlate: Took 0.002899 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
 [2024.01.13-14.57.49:779][469]LogViewport: Scene viewport resized to 288x342, mode Windowed.
 [2024.01.13-14.57.49:819][469]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.01.13-14.58.21:403][858]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.01.13-14.58.21:403][858]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.017
+[2024.01.13-14.58.21:404][858]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/RPG_Character/Animations/ABP_RPGCharacter] ([2] browsable assets)...
+[2024.01.13-14.58.21:497][858]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/RPG_Character/Animations/ABP_RPGCharacter.ABP_RPGCharacter]
+[2024.01.13-14.58.21:497][858]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/RPG_Character/Animations/ABP_RPGCharacter]
+[2024.01.13-14.58.21:500][858]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/RPG_Character/Animations/ABP_RPGCharacter_Auto1
+[2024.01.13-14.58.21:500][858]LogSavePackage: Moving '../../../../../../Users/Jean/Documents/Unreal Projects/Arche/Saved/ABP_RPGCharacter_Auto1404A7ED84561A1564BA76082C9DDE39E.tmp' to '../../../../../../Users/Jean/Documents/Unreal Projects/Arche/Saved/Autosaves/Game/Characters/RPG_Character/Animations/ABP_RPGCharacter_Auto1.uasset'
+[2024.01.13-14.58.21:501][858]LogFileHelpers: Auto-saving content packages took 0.097
+[2024.01.13-15.00.41:455][338]LogViewport: Scene viewport resized to 288x354, mode Windowed.
+[2024.01.13-15.00.41:508][340]LogViewport: Scene viewport resized to 186x197, mode Windowed.
+[2024.01.13-15.00.41:548][341]LogViewport: Scene viewport resized to 145x133, mode Windowed.
+[2024.01.13-15.00.41:562][342]LogViewport: Scene viewport resized to 352x407, mode Windowed.
+[2024.01.13-15.00.41:864][378]LogSlate: Window 'ABP_RPGCharacter' being destroyed
+[2024.01.13-15.00.47:378][ 32]LogViewport: Scene viewport resized to 350x407, mode Windowed.
+[2024.01.13-15.00.47:390][ 33]LogViewport: Scene viewport resized to 348x407, mode Windowed.
+[2024.01.13-15.00.47:400][ 34]LogViewport: Scene viewport resized to 344x407, mode Windowed.
+[2024.01.13-15.00.47:412][ 35]LogViewport: Scene viewport resized to 341x407, mode Windowed.
+[2024.01.13-15.00.47:425][ 36]LogViewport: Scene viewport resized to 333x407, mode Windowed.
+[2024.01.13-15.00.47:434][ 37]LogViewport: Scene viewport resized to 329x407, mode Windowed.
+[2024.01.13-15.00.47:445][ 38]LogViewport: Scene viewport resized to 322x407, mode Windowed.
+[2024.01.13-15.00.47:455][ 39]LogViewport: Scene viewport resized to 317x407, mode Windowed.
+[2024.01.13-15.00.47:465][ 40]LogViewport: Scene viewport resized to 311x407, mode Windowed.
+[2024.01.13-15.00.47:474][ 41]LogViewport: Scene viewport resized to 306x407, mode Windowed.
+[2024.01.13-15.00.47:483][ 42]LogViewport: Scene viewport resized to 303x407, mode Windowed.
+[2024.01.13-15.00.47:492][ 43]LogViewport: Scene viewport resized to 297x407, mode Windowed.
+[2024.01.13-15.00.47:502][ 44]LogViewport: Scene viewport resized to 290x407, mode Windowed.
+[2024.01.13-15.00.47:511][ 45]LogViewport: Scene viewport resized to 286x407, mode Windowed.
+[2024.01.13-15.00.47:521][ 46]LogViewport: Scene viewport resized to 280x407, mode Windowed.
+[2024.01.13-15.00.47:530][ 47]LogViewport: Scene viewport resized to 277x407, mode Windowed.
+[2024.01.13-15.00.47:540][ 48]LogViewport: Scene viewport resized to 273x407, mode Windowed.
+[2024.01.13-15.00.47:549][ 49]LogViewport: Scene viewport resized to 272x407, mode Windowed.
+[2024.01.13-15.00.47:699][ 67]LogViewport: Scene viewport resized to 274x407, mode Windowed.
+[2024.01.13-15.00.47:716][ 69]LogViewport: Scene viewport resized to 276x407, mode Windowed.
+[2024.01.13-15.00.47:783][ 77]LogViewport: Scene viewport resized to 278x407, mode Windowed.
+[2024.01.13-15.00.47:801][ 79]LogViewport: Scene viewport resized to 280x407, mode Windowed.
+[2024.01.13-15.00.48:019][105]LogViewport: Scene viewport resized to 284x407, mode Windowed.
+[2024.01.13-15.00.48:028][106]LogViewport: Scene viewport resized to 285x407, mode Windowed.
+[2024.01.13-15.00.48:037][107]LogViewport: Scene viewport resized to 288x407, mode Windowed.
+[2024.01.13-15.00.48:046][108]LogViewport: Scene viewport resized to 290x407, mode Windowed.
+[2024.01.13-15.00.48:057][109]LogViewport: Scene viewport resized to 296x407, mode Windowed.
+[2024.01.13-15.00.48:066][110]LogViewport: Scene viewport resized to 298x407, mode Windowed.
+[2024.01.13-15.00.48:076][111]LogViewport: Scene viewport resized to 302x407, mode Windowed.
+[2024.01.13-15.00.48:085][112]LogViewport: Scene viewport resized to 303x407, mode Windowed.
+[2024.01.13-15.00.48:102][114]LogViewport: Scene viewport resized to 305x407, mode Windowed.
+[2024.01.13-15.00.48:212][127]LogViewport: Scene viewport resized to 304x407, mode Windowed.
+[2024.01.13-15.00.48:238][130]LogViewport: Scene viewport resized to 302x407, mode Windowed.
+[2024.01.13-15.00.48:271][134]LogViewport: Scene viewport resized to 299x407, mode Windowed.
+[2024.01.13-15.00.48:514][163]LogViewport: Scene viewport resized to 300x407, mode Windowed.
+[2024.01.13-15.00.48:523][164]LogViewport: Scene viewport resized to 302x407, mode Windowed.
+[2024.01.13-15.00.48:540][166]LogViewport: Scene viewport resized to 304x407, mode Windowed.
+[2024.01.13-15.00.48:565][169]LogViewport: Scene viewport resized to 306x407, mode Windowed.
+[2024.01.13-15.01.47:625][513]LogViewport: Scene viewport resized to 128x128, mode Windowed.
+[2024.01.13-15.02.41:049][893]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.13-15.02.41:101][893]LogSavePackage: Moving output files for package: /Game/Characters/RPG_Character/Animations/ABP_RPGCharacter
+[2024.01.13-15.02.41:101][893]LogSavePackage: Moving '../../../../../../Users/Jean/Documents/Unreal Projects/Arche/Saved/ABP_RPGCharacter2C473F424246F57309F9E4AB51B2D4D8.tmp' to '../../../../../../Users/Jean/Documents/Unreal Projects/Arche/Content/Characters/RPG_Character/Animations/ABP_RPGCharacter.uasset'
+[2024.01.13-15.02.41:110][893]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 339 ms)
+[2024.01.13-15.02.41:111][893]AssetCheck: New page: Asset Save: ABP_RPGCharacter
+[2024.01.13-15.02.41:111][893]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Characters/RPG_Character/Animations/ABP_RPGCharacter.ABP_RPGCharacter
+[2024.01.13-15.03.46:128][799]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.13-15.03.46:177][799]LogSavePackage: Moving output files for package: /Game/Characters/RPG_Character/Animations/ABP_RPGCharacter
+[2024.01.13-15.03.46:177][799]LogSavePackage: Moving '../../../../../../Users/Jean/Documents/Unreal Projects/Arche/Saved/ABP_RPGCharacterCE581BEE40D66E631512A999C98C48CC.tmp' to '../../../../../../Users/Jean/Documents/Unreal Projects/Arche/Content/Characters/RPG_Character/Animations/ABP_RPGCharacter.uasset'
+[2024.01.13-15.03.46:181][799]LogFileHelpers: InternalPromptForCheckoutAndSave took 52 ms (total: 391 ms)
+[2024.01.13-15.03.46:182][799]AssetCheck: New page: Asset Save: ABP_RPGCharacter
+[2024.01.13-15.03.46:182][799]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Characters/RPG_Character/Animations/ABP_RPGCharacter.ABP_RPGCharacter
+[2024.01.13-15.03.48:598][ 89]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.13-15.03.48:624][ 89]LogSavePackage: Moving output files for package: /Game/Characters/RPG_Character/Animations/ABP_RPGCharacter
+[2024.01.13-15.03.48:624][ 89]LogSavePackage: Moving '../../../../../../Users/Jean/Documents/Unreal Projects/Arche/Saved/ABP_RPGCharacterE61BE8B04D3036807297E884D695AFC0.tmp' to '../../../../../../Users/Jean/Documents/Unreal Projects/Arche/Content/Characters/RPG_Character/Animations/ABP_RPGCharacter.uasset'
+[2024.01.13-15.03.48:628][ 89]LogFileHelpers: InternalPromptForCheckoutAndSave took 30 ms (total: 422 ms)
+[2024.01.13-15.03.48:629][ 89]AssetCheck: New page: Asset Save: ABP_RPGCharacter
+[2024.01.13-15.03.48:629][ 89]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Characters/RPG_Character/Animations/ABP_RPGCharacter.ABP_RPGCharacter
+[2024.01.13-15.03.56:002][963]LogViewport: Scene viewport resized to 306x406, mode Windowed.
+[2024.01.13-15.03.56:011][964]LogViewport: Scene viewport resized to 306x405, mode Windowed.
+[2024.01.13-15.03.56:020][965]LogViewport: Scene viewport resized to 306x403, mode Windowed.
+[2024.01.13-15.03.56:029][966]LogViewport: Scene viewport resized to 306x400, mode Windowed.
+[2024.01.13-15.03.56:037][967]LogViewport: Scene viewport resized to 306x399, mode Windowed.
+[2024.01.13-15.03.56:047][968]LogViewport: Scene viewport resized to 306x397, mode Windowed.
+[2024.01.13-15.03.56:055][969]LogViewport: Scene viewport resized to 306x394, mode Windowed.
+[2024.01.13-15.03.56:065][970]LogViewport: Scene viewport resized to 306x392, mode Windowed.
+[2024.01.13-15.03.56:081][972]LogViewport: Scene viewport resized to 306x389, mode Windowed.
+[2024.01.13-15.03.56:090][973]LogViewport: Scene viewport resized to 306x387, mode Windowed.
+[2024.01.13-15.03.56:100][974]LogViewport: Scene viewport resized to 306x385, mode Windowed.
+[2024.01.13-15.03.56:109][975]LogViewport: Scene viewport resized to 306x382, mode Windowed.
+[2024.01.13-15.03.56:119][976]LogViewport: Scene viewport resized to 306x378, mode Windowed.
+[2024.01.13-15.03.56:128][977]LogViewport: Scene viewport resized to 306x376, mode Windowed.
+[2024.01.13-15.03.56:137][978]LogViewport: Scene viewport resized to 306x373, mode Windowed.
+[2024.01.13-15.03.56:147][979]LogViewport: Scene viewport resized to 306x369, mode Windowed.
+[2024.01.13-15.03.56:159][980]LogViewport: Scene viewport resized to 306x366, mode Windowed.
+[2024.01.13-15.03.56:171][981]LogViewport: Scene viewport resized to 306x365, mode Windowed.
+[2024.01.13-15.03.56:180][982]LogViewport: Scene viewport resized to 306x363, mode Windowed.
+[2024.01.13-15.03.56:197][984]LogViewport: Scene viewport resized to 306x362, mode Windowed.
+[2024.01.13-15.03.56:256][991]LogViewport: Scene viewport resized to 306x360, mode Windowed.
+[2024.01.13-15.03.56:270][992]LogViewport: Scene viewport resized to 306x358, mode Windowed.
+[2024.01.13-15.03.56:279][993]LogViewport: Scene viewport resized to 306x357, mode Windowed.
+[2024.01.13-15.03.56:290][994]LogViewport: Scene viewport resized to 306x355, mode Windowed.
+[2024.01.13-15.03.56:300][995]LogViewport: Scene viewport resized to 306x353, mode Windowed.
+[2024.01.13-15.03.56:312][996]LogViewport: Scene viewport resized to 306x350, mode Windowed.
+[2024.01.13-15.03.56:322][997]LogViewport: Scene viewport resized to 306x349, mode Windowed.
+[2024.01.13-15.03.56:332][998]LogViewport: Scene viewport resized to 306x345, mode Windowed.
+[2024.01.13-15.03.56:343][999]LogViewport: Scene viewport resized to 306x341, mode Windowed.
+[2024.01.13-15.03.56:353][  0]LogViewport: Scene viewport resized to 306x340, mode Windowed.
+[2024.01.13-15.03.56:395][  5]LogViewport: Scene viewport resized to 306x339, mode Windowed.
+[2024.01.13-15.03.56:404][  6]LogViewport: Scene viewport resized to 306x337, mode Windowed.
+[2024.01.13-15.03.56:413][  7]LogViewport: Scene viewport resized to 306x336, mode Windowed.
+[2024.01.13-15.03.56:422][  8]LogViewport: Scene viewport resized to 306x335, mode Windowed.
+[2024.01.13-15.03.56:431][  9]LogViewport: Scene viewport resized to 306x333, mode Windowed.
+[2024.01.13-15.03.56:441][ 10]LogViewport: Scene viewport resized to 306x331, mode Windowed.
+[2024.01.13-15.03.56:465][ 13]LogViewport: Scene viewport resized to 306x329, mode Windowed.
+[2024.01.13-15.03.56:723][ 44]LogViewport: Scene viewport resized to 306x328, mode Windowed.
+[2024.01.13-15.03.56:732][ 45]LogViewport: Scene viewport resized to 306x326, mode Windowed.
+[2024.01.13-15.03.56:741][ 46]LogViewport: Scene viewport resized to 306x323, mode Windowed.
+[2024.01.13-15.03.56:750][ 47]LogViewport: Scene viewport resized to 306x320, mode Windowed.
+[2024.01.13-15.03.56:758][ 48]LogViewport: Scene viewport resized to 306x318, mode Windowed.
+[2024.01.13-15.03.56:768][ 49]LogViewport: Scene viewport resized to 306x315, mode Windowed.
+[2024.01.13-15.03.56:776][ 50]LogViewport: Scene viewport resized to 306x311, mode Windowed.
+[2024.01.13-15.03.56:785][ 51]LogViewport: Scene viewport resized to 306x306, mode Windowed.
+[2024.01.13-15.03.56:794][ 52]LogViewport: Scene viewport resized to 306x305, mode Windowed.
+[2024.01.13-15.03.57:037][ 81]LogViewport: Scene viewport resized to 306x308, mode Windowed.
+[2024.01.13-15.03.57:046][ 82]LogViewport: Scene viewport resized to 306x312, mode Windowed.
+[2024.01.13-15.03.57:054][ 83]LogViewport: Scene viewport resized to 306x316, mode Windowed.
+[2024.01.13-15.03.57:063][ 84]LogViewport: Scene viewport resized to 306x319, mode Windowed.
+[2024.01.13-15.03.57:074][ 85]LogViewport: Scene viewport resized to 306x324, mode Windowed.
+[2024.01.13-15.03.57:081][ 86]LogViewport: Scene viewport resized to 306x327, mode Windowed.
+[2024.01.13-15.03.57:090][ 87]LogViewport: Scene viewport resized to 306x328, mode Windowed.
+[2024.01.13-15.03.57:099][ 88]LogViewport: Scene viewport resized to 306x329, mode Windowed.
+[2024.01.13-15.03.57:225][103]LogViewport: Scene viewport resized to 306x326, mode Windowed.
+[2024.01.13-15.03.57:233][104]LogViewport: Scene viewport resized to 306x321, mode Windowed.
+[2024.01.13-15.03.57:242][105]LogViewport: Scene viewport resized to 306x316, mode Windowed.
+[2024.01.13-15.03.57:252][106]LogViewport: Scene viewport resized to 306x311, mode Windowed.
+[2024.01.13-15.03.57:259][107]LogViewport: Scene viewport resized to 306x305, mode Windowed.
+[2024.01.13-15.03.57:269][108]LogViewport: Scene viewport resized to 306x302, mode Windowed.
+[2024.01.13-15.03.57:277][109]LogViewport: Scene viewport resized to 306x297, mode Windowed.
+[2024.01.13-15.03.57:286][110]LogViewport: Scene viewport resized to 306x294, mode Windowed.
+[2024.01.13-15.03.57:295][111]LogViewport: Scene viewport resized to 306x292, mode Windowed.
+[2024.01.13-15.03.57:303][112]LogViewport: Scene viewport resized to 306x289, mode Windowed.
+[2024.01.13-15.03.57:312][113]LogViewport: Scene viewport resized to 306x288, mode Windowed.
