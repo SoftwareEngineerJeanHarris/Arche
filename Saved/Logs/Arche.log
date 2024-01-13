@@ -1632,3 +1632,134 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.13-15.17.48:493][222]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 920 ms)
 [2024.01.13-15.17.48:494][222]AssetCheck: New page: Asset Save: ABP_RPGCharacter
 [2024.01.13-15.17.48:494][222]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Characters/RPG_Character/Animations/ABP_RPGCharacter.ABP_RPGCharacter
+[2024.01.13-15.20.14:740][896]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.13-15.20.14:793][896]LogSavePackage: Moving output files for package: /Game/Characters/RPG_Character/Animations/ABP_RPGCharacter
+[2024.01.13-15.20.14:794][896]LogSavePackage: Moving '../../../../../../Users/Jean/Documents/Unreal Projects/Arche/Saved/ABP_RPGCharacter6EAE38E7465DDEA011A0689432D8BE92.tmp' to '../../../../../../Users/Jean/Documents/Unreal Projects/Arche/Content/Characters/RPG_Character/Animations/ABP_RPGCharacter.uasset'
+[2024.01.13-15.20.14:798][896]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 977 ms)
+[2024.01.13-15.20.14:799][896]AssetCheck: New page: Asset Save: ABP_RPGCharacter
+[2024.01.13-15.20.14:799][896]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Characters/RPG_Character/Animations/ABP_RPGCharacter.ABP_RPGCharacter
+[2024.01.13-15.20.15:308][956]BlueprintLog: New page: Compile ABP_RPGCharacter
+[2024.01.13-15.20.15:337][956]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.01.13-15.20.15:346][956]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_RPGCharacter_C /Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_RPGCharacter_C_0
+	Function /Game/Characters/RPG_Character/Animations/ABP_RPGCharacter.ABP_RPGCharacter_C:ExecuteUbergraph_ABP_RPGCharacter:00A4
+[2024.01.13-15.20.15:364][957]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_RPGCharacter_C /Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_RPGCharacter_C_0
+	Function /Game/Characters/RPG_Character/Animations/ABP_RPGCharacter.ABP_RPGCharacter_C:ExecuteUbergraph_ABP_RPGCharacter:00A4
+[2024.01.13-15.20.15:373][958]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_RPGCharacter_C /Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_RPGCharacter_C_0
+	Function /Game/Characters/RPG_Character/Animations/ABP_RPGCharacter.ABP_RPGCharacter_C:ExecuteUbergraph_ABP_RPGCharacter:00A4
+[2024.01.13-15.20.15:381][959]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_RPGCharacter_C /Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_RPGCharacter_C_0
+	Function /Game/Characters/RPG_Character/Animations/ABP_RPGCharacter.ABP_RPGCharacter_C:ExecuteUbergraph_ABP_RPGCharacter:00A4
+[2024.01.13-15.20.15:389][960]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_RPGCharacter_C /Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_RPGCharacter_C_0
+	Function /Game/Characters/RPG_Character/Animations/ABP_RPGCharacter.ABP_RPGCharacter_C:ExecuteUbergraph_ABP_RPGCharacter:00A4
+[2024.01.13-15.20.15:398][961]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_RPGCharacter_C /Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_RPGCharacter_C_0
+	Function /Game/Characters/RPG_Character/Animations/ABP_RPGCharacter.ABP_RPGCharacter_C:ExecuteUbergraph_ABP_RPGCharacter:00A4
+[2024.01.13-15.20.15:406][962]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_RPGCharacter_C /Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_RPGCharacter_C_0
+	Function /Game/Characters/RPG_Character/Animations/ABP_RPGCharacter.ABP_RPGCharacter_C:ExecuteUbergraph_ABP_RPGCharacter:00A4
+[2024.01.13-15.20.15:414][963]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_RPGCharacter_C /Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_RPGCharacter_C_0
+	Function /Game/Characters/RPG_Character/Animations/ABP_RPGCharacter.ABP_RPGCharacter_C:ExecuteUbergraph_ABP_RPGCharacter:00A4
+[2024.01.13-15.20.15:423][964]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_RPGCharacter_C /Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_RPGCharacter_C_0
+	Function /Game/Characters/RPG_Character/Animations/ABP_RPGCharacter.ABP_RPGCharacter_C:ExecuteUbergraph_ABP_RPGCharacter:00A4
+[2024.01.13-15.20.15:431][965]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_RPGCharacter_C /Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_RPGCharacter_C_0
+	Function /Game/Characters/RPG_Character/Animations/ABP_RPGCharacter.ABP_RPGCharacter_C:ExecuteUbergraph_ABP_RPGCharacter:00A4
+[2024.01.13-15.20.15:440][966]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_RPGCharacter_C /Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_RPGCharacter_C_0
+	Function /Game/Characters/RPG_Character/Animations/ABP_RPGCharacter.ABP_RPGCharacter_C:ExecuteUbergraph_ABP_RPGCharacter:00A4
+[2024.01.13-15.20.15:448][967]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_RPGCharacter_C /Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_RPGCharacter_C_0
+	Function /Game/Characters/RPG_Character/Animations/ABP_RPGCharacter.ABP_RPGCharacter_C:ExecuteUbergraph_ABP_RPGCharacter:00A4
+[2024.01.13-15.20.15:456][968]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_RPGCharacter_C /Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_RPGCharacter_C_0
+	Function /Game/Characters/RPG_Character/Animations/ABP_RPGCharacter.ABP_RPGCharacter_C:ExecuteUbergraph_ABP_RPGCharacter:00A4
+[2024.01.13-15.20.15:465][969]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_RPGCharacter_C /Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_RPGCharacter_C_0
+	Function /Game/Characters/RPG_Character/Animations/ABP_RPGCharacter.ABP_RPGCharacter_C:ExecuteUbergraph_ABP_RPGCharacter:00A4
+[2024.01.13-15.20.15:473][970]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_RPGCharacter_C /Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_RPGCharacter_C_0
+	Function /Game/Characters/RPG_Character/Animations/ABP_RPGCharacter.ABP_RPGCharacter_C:ExecuteUbergraph_ABP_RPGCharacter:00A4
+[2024.01.13-15.20.15:481][971]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_RPGCharacter_C /Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_RPGCharacter_C_0
+	Function /Game/Characters/RPG_Character/Animations/ABP_RPGCharacter.ABP_RPGCharacter_C:ExecuteUbergraph_ABP_RPGCharacter:00A4
+[2024.01.13-15.20.15:983][ 31]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.13-15.20.16:013][ 31]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_RPGCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_RPGCharacter_C_229
+	Function /Game/Characters/RPG_Character/Animations/ABP_RPGCharacter.ABP_RPGCharacter_C:ExecuteUbergraph_ABP_RPGCharacter:00A4
+[2024.01.13-15.20.16:033][ 31]LogSavePackage: Moving output files for package: /Game/Characters/RPG_Character/Animations/ABP_RPGCharacter
+[2024.01.13-15.20.16:033][ 31]LogSavePackage: Moving '../../../../../../Users/Jean/Documents/Unreal Projects/Arche/Saved/ABP_RPGCharacterB5709EAC45D196FDC63B0AB0756F5C37.tmp' to '../../../../../../Users/Jean/Documents/Unreal Projects/Arche/Content/Characters/RPG_Character/Animations/ABP_RPGCharacter.uasset'
+[2024.01.13-15.20.16:037][ 31]LogFileHelpers: InternalPromptForCheckoutAndSave took 53 ms (total: 1.03 sec)
+[2024.01.13-15.20.16:038][ 31]AssetCheck: New page: Asset Save: ABP_RPGCharacter
+[2024.01.13-15.20.16:038][ 31]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Characters/RPG_Character/Animations/ABP_RPGCharacter.ABP_RPGCharacter
+[2024.01.13-15.20.18:596][301]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.13-15.20.18:600][301]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.01.13-15.20.18:600][301]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.01.13-15.20.18:602][301]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 5 ms)
+[2024.01.13-15.20.18:602][301]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.01.13-15.20.18:602][301]LogPlayLevel: [PlayLevel] Compiling BP_ThirdPersonCharacter before play...
+[2024.01.13-15.20.18:665][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.01.13-15.20.18:666][301]LogPlayLevel: PlayLevel: Blueprint regeneration took 64 ms (1 blueprints)
+[2024.01.13-15.20.18:666][301]PIE: New page: PIE session: ThirdPersonMap (Jan 13, 2024, 5:20:18 AM)
+[2024.01.13-15.20.18:666][301]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.01.13-15.20.18:669][301]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002520s)
+[2024.01.13-15.20.18:669][301]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.002541s)
+[2024.01.13-15.20.18:678][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.01.13-15.20.18:679][301]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.13-15.20.18:679][301]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.13-15.20.18:679][301]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.01.13-15.20.18:679][301]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.01.13-15.20.18:679][301]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.13-15.20.18:679][301]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.01.13-15.20.18:679][301]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.01.13-15.20.18:680][301]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.01.13-15.20.18:680][301]LogWorldPartition: Display: WorldPartition initialize took 750 us (total: 212 ms)
+[2024.01.13-15.20.18:680][301]LogPlayLevel: PIE: World Init took: (0.001518s)
+[2024.01.13-15.20.18:680][301]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.01.13-15.20.18:680][301]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.13-15.20.18:680][301]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.13-15.20.18:680][301]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.13-15.20.18:680][301]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.13-15.20.18:680][301]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.13-15.20.18:680][301]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.13-15.20.18:680][301]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.13-15.20.18:680][301]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.13-15.20.18:681][301]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.13-15.20.18:681][301]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.13-15.20.18:681][301]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.13-15.20.18:682][301]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.13-15.20.18:699][301]LogAudioMixer: Display: Using Audio Hardware Device Left Display (NVIDIA High Definition Audio)
+[2024.01.13-15.20.18:699][301]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.13-15.20.18:699][301]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.13-15.20.18:699][301]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.13-15.20.18:699][301]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.01.13-15.20.18:699][301]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.01.13-15.20.18:701][301]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.01.13-15.20.18:701][301]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.01.13-15.20.18:701][301]LogInit: FAudioDevice initialized with ID 5.
+[2024.01.13-15.20.18:701][301]LogAudio: Display: Audio Device (ID: 5) registered with world 'ThirdPersonMap'.
+[2024.01.13-15.20.18:701][301]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.01.13-15.20.18:703][301]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.01.13-15.20.18:704][301]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.01.13-10.20.18
+[2024.01.13-15.20.18:704][301]LogWorld: Bringing up level for play took: 0.001129
+[2024.01.13-15.20.18:706][301]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2024.01.13-15.20.18:707][301]PIE: Server logged in
+[2024.01.13-15.20.18:708][301]PIE: Play in editor total start time 0.108 seconds.
+[2024.01.13-15.20.27:221][257]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.13-15.20.27:221][257]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.01.13-15.20.27:221][257]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.13-15.20.27:221][257]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.13-15.20.27:221][257]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.01.13-15.20.27:224][257]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.13-15.20.27:227][257]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.13-15.20.27:234][257]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.13-15.20.27:234][257]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.01.13-15.20.27:234][257]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.01.13-15.20.27:235][257]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.01.13-15.20.27:241][257]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.01.13-15.20.27:287][259]LogPlayLevel: Display: Destroying online subsystem :Context_19
