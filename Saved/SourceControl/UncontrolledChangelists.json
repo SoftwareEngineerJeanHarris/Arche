@@ -5,7 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/Jean/Documents/Unreal Projects/Arche/Content/StarterContent/Audio/Collapse01.uasset"
+				"C:/Users/Jean/Documents/Unreal Projects/Arche/Content/StarterContent/Audio/Collapse01.uasset",
+				"C:/Users/Jean/Documents/Unreal Projects/Arche/Content/Characters/RPG_Character/Animations/Crouch_Idle.uasset",
+				"C:/Users/Jean/Documents/Unreal Projects/Arche/Content/Characters/RPG_Character/Animations/Crouh_Walk.uasset",
+				"C:/Users/Jean/Documents/Unreal Projects/Arche/Content/Characters/RPG_Character/Animations/Idle_Break.uasset",
+				"C:/Users/Jean/Documents/Unreal Projects/Arche/Content/Characters/RPG_Character/Animations/Walk_Stop.uasset"
 			]
 		}
 	]
