@@ -1197,3 +1197,36 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.13-14.54.11:343][515]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 224 ms)
 [2024.01.13-14.54.11:344][515]AssetCheck: New page: Asset Save: LocomotionBlendSpace1D
 [2024.01.13-14.54.11:344][515]LogContentValidation: Display: Validating /Script/Engine.BlendSpace1D /Game/Characters/RPG_Character/Animations/Locomotion/LocomotionBlendSpace1D.LocomotionBlendSpace1D
+[2024.01.13-14.56.01:282][198]LogViewport: Scene viewport resized to 128x128, mode Windowed.
+[2024.01.13-14.56.12:486][494]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.BlendSpace1D
+[2024.01.13-14.56.22:618][608]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Quinn) ...
+[2024.01.13-14.56.36:531][258]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.01.13-14.56.59:240][911]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.13-14.56.59:288][911]LogSavePackage: Moving output files for package: /Game/Characters/RPG_Character/Animations/Locomotion/LocomotionBlendSpace1D
+[2024.01.13-14.56.59:288][911]LogSavePackage: Moving '../../../../../../Users/Jean/Documents/Unreal Projects/Arche/Saved/LocomotionBlendSpace1D1A77DFFA434821B4F598ABB25BB42820.tmp' to '../../../../../../Users/Jean/Documents/Unreal Projects/Arche/Content/Characters/RPG_Character/Animations/Locomotion/LocomotionBlendSpace1D.uasset'
+[2024.01.13-14.56.59:293][911]LogFileHelpers: InternalPromptForCheckoutAndSave took 52 ms (total: 277 ms)
+[2024.01.13-14.56.59:294][911]AssetCheck: New page: Asset Save: LocomotionBlendSpace1D
+[2024.01.13-14.56.59:294][911]LogContentValidation: Display: Validating /Script/Engine.BlendSpace1D /Game/Characters/RPG_Character/Animations/Locomotion/LocomotionBlendSpace1D.LocomotionBlendSpace1D
+[2024.01.13-14.57.05:604][617]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.01.13-14.57.05:604][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.13-14.57.05:632][617]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.01.13-14.57.05:632][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.13-14.57.35:663][ 47]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2024.01.13-14.57.35:667][ 47]LogContentBrowser: Deferred new asset file creation: NewAnimBlueprint
+[2024.01.13-14.57.35:670][ 47]LogContentBrowser: Creating deferred item: NewAnimBlueprint
+[2024.01.13-14.57.35:682][ 48]LogContentBrowser: Renaming the item being created (Deferred Item: NewAnimBlueprint).
+[2024.01.13-14.57.45:935][216]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> ABP_RPGCharacter
+[2024.01.13-14.57.45:943][216]LogContentBrowser: End creating deferred item NewAnimBlueprint
+[2024.01.13-14.57.45:944][216]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.13-14.57.48:473][469]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Characters/RPG_Character/Animations/ABP_RPGCharacter.ABP_RPGCharacter
+[2024.01.13-14.57.48:475][469]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.13-14.57.48:475][469]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.13-14.57.48:484][469]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.13-14.57.48:484][469]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.13-14.57.48:491][469]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.13-14.57.48:496][469]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2024.01.13-14.57.49:694][469]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.13-14.57.49:694][469]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.13-14.57.49:775][469]LogSlate: Took 0.002899 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.01.13-14.57.49:779][469]LogViewport: Scene viewport resized to 288x342, mode Windowed.
+[2024.01.13-14.57.49:819][469]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
