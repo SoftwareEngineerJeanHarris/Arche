@@ -6,17 +6,19 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/Jean/Documents/Unreal Projects/Arche/Content/StarterContent/Audio/Collapse01.uasset",
-				"C:/Users/Jean/Documents/Unreal Projects/Arche/Content/Characters/RPG_Character/Animations/Crouch_Idle.uasset",
-				"C:/Users/Jean/Documents/Unreal Projects/Arche/Content/Characters/RPG_Character/Animations/Crouh_Walk.uasset",
-				"C:/Users/Jean/Documents/Unreal Projects/Arche/Content/Characters/RPG_Character/Animations/Idle_Break.uasset",
-				"C:/Users/Jean/Documents/Unreal Projects/Arche/Content/Characters/RPG_Character/Animations/Walk_Stop.uasset",
 				"C:/Users/Jean/Documents/Unreal Projects/Arche/Content/Characters/RPG_Character/Animations/Locomotion/Walk_Stop.uasset",
 				"C:/Users/Jean/Documents/Unreal Projects/Arche/Content/Characters/RPG_Character/Animations/Locomotion/Idle_Break.uasset",
 				"C:/Users/Jean/Documents/Unreal Projects/Arche/Content/Characters/RPG_Character/Animations/Crouched/Crouh_Walk.uasset",
 				"C:/Users/Jean/Documents/Unreal Projects/Arche/Content/Characters/RPG_Character/Animations/Crouched/Crouch_Idle.uasset",
 				"C:/Users/Jean/Documents/Unreal Projects/Arche/Content/Characters/RPG_Character/Animations/Locomotion/LocomotionBlendSpace1D.uasset",
 				"C:/Users/Jean/Documents/Unreal Projects/Arche/Content/Characters/RPG_Character/Animations/ABP_RPGCharacter.uasset",
-				"C:/Users/Jean/Documents/Unreal Projects/Arche/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+				"C:/Users/Jean/Documents/Unreal Projects/Arche/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Jean/Documents/Unreal Projects/Arche/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/Jean/Documents/Unreal Projects/Arche/Content/Characters/RPG_Character/Animations/Crouched/CrouchedBlendSpace1D.uasset",
+				"C:/Users/Jean/Documents/Unreal Projects/Arche/Content/Characters/RPG_Character/Animations/Crouch_Idle.uasset",
+				"C:/Users/Jean/Documents/Unreal Projects/Arche/Content/Characters/RPG_Character/Animations/Crouh_Walk.uasset",
+				"C:/Users/Jean/Documents/Unreal Projects/Arche/Content/Characters/RPG_Character/Animations/Idle_Break.uasset",
+				"C:/Users/Jean/Documents/Unreal Projects/Arche/Content/Characters/RPG_Character/Animations/Walk_Stop.uasset"
 			]
 		}
 	]
