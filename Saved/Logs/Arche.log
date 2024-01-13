@@ -1903,3 +1903,87 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.13-18.07.16:109][827]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2024.01.13-18.07.16:111][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
 [2024.01.13-18.07.16:164][830]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2024.01.13-18.07.47:719][634]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.01.13-18.07.47:719][634]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.010
+[2024.01.13-18.07.47:720][634]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Input/Actions/IA_Crouch] ([1] browsable assets)...
+[2024.01.13-18.07.47:720][634]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Input/Actions/IA_Crouch]
+[2024.01.13-18.07.47:720][634]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Input/Actions/IA_Crouch_Auto2
+[2024.01.13-18.07.47:720][634]LogSavePackage: Moving '../../../../../../Users/Jean/Documents/Unreal Projects/Arche/Saved/IA_Crouch_Auto2BC106AC347AFF0C75112138DB29D7978.tmp' to '../../../../../../Users/Jean/Documents/Unreal Projects/Arche/Saved/Autosaves/Game/ThirdPerson/Input/Actions/IA_Crouch_Auto2.uasset'
+[2024.01.13-18.07.47:721][634]LogFileHelpers: Auto-saving content packages took 0.001
+[2024.01.13-18.09.30:567][  3]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.01.13-18.09.30:618][  3]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.01.13-18.09.31:067][ 39]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.13-18.09.31:120][ 39]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.01.13-18.09.31:121][ 39]LogSavePackage: Moving '../../../../../../Users/Jean/Documents/Unreal Projects/Arche/Saved/BP_ThirdPersonCharacterDF3200FD4EE3BBDE5C3CFC9D18D2F072.tmp' to '../../../../../../Users/Jean/Documents/Unreal Projects/Arche/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.01.13-18.09.31:125][ 39]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 1.10 sec)
+[2024.01.13-18.09.31:126][ 39]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.01.13-18.09.31:126][ 39]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.01.13-18.09.33:080][240]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.13-18.09.33:084][240]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.01.13-18.09.33:084][240]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.01.13-18.09.33:085][240]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 6 ms)
+[2024.01.13-18.09.33:085][240]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.13-18.09.33:085][240]PIE: New page: PIE session: ThirdPersonMap (Jan 13, 2024, 8:09:33 AM)
+[2024.01.13-18.09.33:085][240]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.01.13-18.09.33:089][240]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003969s)
+[2024.01.13-18.09.33:089][240]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004003s)
+[2024.01.13-18.09.33:101][240]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.01.13-18.09.33:104][240]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.13-18.09.33:104][240]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.13-18.09.33:104][240]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.01.13-18.09.33:105][240]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.01.13-18.09.33:105][240]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.13-18.09.33:105][240]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.01.13-18.09.33:105][240]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.01.13-18.09.33:105][240]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.01.13-18.09.33:105][240]LogWorldPartition: Display: WorldPartition initialize took 782 us (total: 212 ms)
+[2024.01.13-18.09.33:105][240]LogPlayLevel: PIE: World Init took: (0.001563s)
+[2024.01.13-18.09.33:105][240]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.01.13-18.09.33:105][240]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.13-18.09.33:105][240]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.13-18.09.33:105][240]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.13-18.09.33:105][240]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.13-18.09.33:105][240]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.13-18.09.33:105][240]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.13-18.09.33:105][240]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.13-18.09.33:105][240]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.13-18.09.33:106][240]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.13-18.09.33:106][240]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.13-18.09.33:106][240]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.13-18.09.33:107][240]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.13-18.09.33:123][240]LogAudioMixer: Display: Using Audio Hardware Device Left Display (NVIDIA High Definition Audio)
+[2024.01.13-18.09.33:124][240]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.13-18.09.33:124][240]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.13-18.09.33:124][240]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.13-18.09.33:124][240]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.01.13-18.09.33:124][240]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.01.13-18.09.33:126][240]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.01.13-18.09.33:126][240]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.01.13-18.09.33:126][240]LogInit: FAudioDevice initialized with ID 6.
+[2024.01.13-18.09.33:126][240]LogAudio: Display: Audio Device (ID: 6) registered with world 'ThirdPersonMap'.
+[2024.01.13-18.09.33:126][240]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.01.13-18.09.33:128][240]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.01.13-18.09.33:129][240]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.01.13-13.09.33
+[2024.01.13-18.09.33:129][240]LogWorld: Bringing up level for play took: 0.001090
+[2024.01.13-18.09.33:130][240]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2024.01.13-18.09.33:132][240]PIE: Server logged in
+[2024.01.13-18.09.33:133][240]PIE: Play in editor total start time 0.049 seconds.
+[2024.01.13-18.09.38:563][878]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.13-18.09.38:563][878]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.01.13-18.09.38:563][878]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.13-18.09.38:563][878]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.13-18.09.38:563][878]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.01.13-18.09.38:565][878]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.13-18.09.38:568][878]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.13-18.09.38:577][878]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.13-18.09.38:577][878]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.01.13-18.09.38:577][878]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.01.13-18.09.38:578][878]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.01.13-18.09.38:581][878]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.13-18.09.38:583][878]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.01.13-18.09.38:636][881]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2024.01.13-18.10.05:618][778]LogDerivedDataCache: C:/Users/Jean/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.045 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1475 files in 2307 folders with total size 120 MiB.
+[2024.01.13-18.11.19:024][389]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.13-18.11.26:893][318]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.13-18.11.33:399][ 84]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2024.01.13-18.11.33:405][ 84]LogSlate: Window 'Color Picker' being destroyed
