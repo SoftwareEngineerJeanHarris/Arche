@@ -1652,3 +1652,6 @@ Script Stack (0 frames) :
 [2024.01.16-02.48.13:674][665]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
 [2024.01.16-02.48.13:679][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
 [2024.01.16-02.48.13:730][668]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2024.01.16-02.50.40:401][627]LogSlate: Window 'Plugins' being destroyed
+[2024.01.16-02.50.40:403][627]LogSlate: Window 'Plugins' being destroyed
+[2024.01.16-02.50.40:403][627]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
