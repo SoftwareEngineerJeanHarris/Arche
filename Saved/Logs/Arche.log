@@ -1655,3 +1655,9 @@ Script Stack (0 frames) :
 [2024.01.16-02.50.40:401][627]LogSlate: Window 'Plugins' being destroyed
 [2024.01.16-02.50.40:403][627]LogSlate: Window 'Plugins' being destroyed
 [2024.01.16-02.50.40:403][627]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2024.01.16-02.52.38:911][282]LogSlate: External Image Picker: DecompressImage failed
+[2024.01.16-02.52.40:654][453]LogSlate: Window 'Project Settings' being destroyed
+[2024.01.16-02.52.40:658][453]LogSlate: Window 'Project Settings' being destroyed
+[2024.01.16-02.52.44:186][849]LogSlate: Window 'Plugins' being destroyed
+[2024.01.16-02.52.44:188][849]LogSlate: Window 'Plugins' being destroyed
+[2024.01.16-02.52.44:188][849]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
